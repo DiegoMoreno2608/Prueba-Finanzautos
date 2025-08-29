@@ -36,6 +36,7 @@ D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.As
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.csproj.CoreCompileInputs.cache
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.sourcelink.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -44,7 +45,6 @@ D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\staticwebasse
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.csproj.Up2Date
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\Asisya.Api.dll
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Api\obj\Debug\net8.0\refint\Asisya.Api.dll

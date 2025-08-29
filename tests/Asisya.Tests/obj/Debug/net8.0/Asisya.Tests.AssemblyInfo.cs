@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asisya.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7eea2fa627c536be9b55d814ceb259827cb13b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asisya.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asisya.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

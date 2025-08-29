@@ -10,22 +10,22 @@ namespace Asisya.Api.Controllers;
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
-    [HttpPost("login")]
-    public IActionResult Login([FromBody] LoginRequest request, [FromServices] IConfiguration config)
-    {
-        if (request.Username != "admin" || request.Password != "admin")
-            return Unauthorized();
+  [HttpPost("login")]
+  public IActionResult Login([FromBody] LoginRequest request, [FromServices] IConfiguration config)
+  {
+    if (request.Username != "admin" || request.Password != "admin")
+      return Unauthorized();
 
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]!));
-        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-        var token = new JwtSecurityToken(
-            issuer: config["Jwt:Issuer"],
-            audience: config["Jwt:Audience"],
-            claims: new[] { new Claim(ClaimTypes.Name, request.Username) },
-            expires: DateTime.UtcNow.AddHours(6),
-            signingCredentials: creds);
+    var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]!));
+    var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+    var token = new JwtSecurityToken(
+        issuer: config["Jwt:Issuer"],
+        audience: config["Jwt:Audience"],
+        claims: new[] { new Claim(ClaimTypes.Name, request.Username) },
+        expires: DateTime.UtcNow.AddHours(6),
+        signingCredentials: creds);
 
-        return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
-    }
+    return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
+  }
 }
 public record LoginRequest(string Username, string Password);

@@ -5,6 +5,7 @@ D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Dom
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.AssemblyInfoInputs.cache
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.AssemblyInfo.cs
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.csproj.CoreCompileInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.sourcelink.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.dll
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\refint\Asisya.Domain.dll
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Debug\net8.0\Asisya.Domain.pdb

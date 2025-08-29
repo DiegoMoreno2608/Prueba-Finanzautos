@@ -8,6 +8,7 @@ D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisy
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.Application.AssemblyInfoInputs.cache
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.Application.AssemblyInfo.cs
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.Application.csproj.CoreCompileInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.Application.sourcelink.json
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.A.97D99C0A.Up2Date
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\Asisya.Application.dll
 D:\Descargas\asisya-api\asisya-api\src\Asisya.Application\obj\Debug\net8.0\refint\Asisya.Application.dll

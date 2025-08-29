@@ -1,0 +1,12 @@
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\bin\Release\net8.0\Asisya.Domain.deps.json
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\bin\Release\net8.0\Asisya.Domain.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\bin\Release\net8.0\Asisya.Domain.pdb
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.AssemblyInfoInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.AssemblyInfo.cs
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.csproj.CoreCompileInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.sourcelink.json
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\refint\Asisya.Domain.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\Asisya.Domain.pdb
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Domain\obj\Release\net8.0\ref\Asisya.Domain.dll

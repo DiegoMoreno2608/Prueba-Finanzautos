@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Descargas\\asisya-api\\asisya-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\integration_postgres_container_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\integration_postgres_container_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\asisya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\asisya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5E7C7A-04D7-4922-8A96-794C1E3A32C9}|src\\Asisya.Domain\\Asisya.Domain.csproj|d:\\descargas\\asisya-api\\asisya-api\\src\\asisya.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5E7C7A-04D7-4922-8A96-794C1E3A32C9}|src\\Asisya.Domain\\Asisya.Domain.csproj|solutionrelative:src\\asisya.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6E4C057-2C67-4B19-8B16-1A2FE0BB8E70}|src\\Asisya.Api\\Asisya.Api.csproj|d:\\descargas\\asisya-api\\asisya-api\\src\\asisya.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E4C057-2C67-4B19-8B16-1A2FE0BB8E70}|src\\Asisya.Api\\Asisya.Api.csproj|solutionrelative:src\\asisya.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,23 +71,7 @@
       "RelativeMoniker": "D:0:0:{C2F3D2DC-3F7C-4F06-A5C5-1FE4C2F15B8E}|src\\Asisya.Application\\Asisya.Application.csproj|solutionrelative:src\\asisya.application\\dtos\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\integration_postgres_container_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\integration_postgres_container_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|d:\\descargas\\asisya-api\\asisya-api\\tests\\asisya.tests\\asisya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6D8A3F9-6FC1-4B6F-A2AC-9B3E3E2A1B9C}|tests\\Asisya.Tests\\Asisya.Tests.csproj|solutionrelative:tests\\asisya.tests\\asisya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,93 +81,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BulkProductRequestDto.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
-              "RelativeDocumentMoniker": "src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
-              "RelativeToolTip": "src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:56:03.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "src\\Asisya.Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "src\\Asisya.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\Asisya.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:32:15.11Z",
+              "WhenOpened": "2025-08-29T06:21:37.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Asisya.Api\\appsettings.json",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Asisya.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-29T02:57:47.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Asisya.Infrastructure",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
-              "RelativeToolTip": "src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T02:45:36.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "src\\Asisya.Api\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "src\\Asisya.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T02:25:41.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "src\\Asisya.Api\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "src\\Asisya.Api\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:25:36.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\Asisya.Api\\Controllers\\AuthController.cs",
@@ -171,12 +119,11 @@
               "RelativeToolTip": "src\\Asisya.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:25:36.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:25:36.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "src\\Asisya.Application\\Services\\CategoryService.cs",
@@ -184,12 +131,11 @@
               "RelativeToolTip": "src\\Asisya.Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:25:29.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:25:29.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductDtos.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\ProductDtos.cs",
               "RelativeDocumentMoniker": "src\\Asisya.Application\\DTOs\\ProductDtos.cs",
@@ -197,12 +143,11 @@
               "RelativeToolTip": "src\\Asisya.Application\\DTOs\\ProductDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:25:27.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:25:27.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Asisya.Api\\Program.cs",
@@ -210,38 +155,50 @@
               "RelativeToolTip": "src\\Asisya.Api\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:57:37.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T01:57:37.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryDtos.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
-              "RelativeDocumentMoniker": "src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
-              "RelativeToolTip": "src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Integration_Postgres_Container_Tests.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
+              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
+              "RelativeToolTip": "tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:25:26.314Z",
+              "WhenOpened": "2025-08-29T02:15:47.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Asisya.Infrastructure\\AppDbContext.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "src\\Asisya.Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\ProductServiceTests.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "tests\\Asisya.Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:16:09.153Z",
+              "WhenOpened": "2025-08-29T02:16:02.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "Asisya.Tests.csproj",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Asisya.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\Asisya.Tests.csproj",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Asisya.Tests.csproj",
+              "RelativeToolTip": "tests\\Asisya.Tests\\Asisya.Tests.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T01:57:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Usings.cs",
               "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Usings.cs",
               "RelativeDocumentMoniker": "tests\\Asisya.Tests\\Usings.cs",
@@ -254,53 +211,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductServiceTests.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\ProductServiceTests.cs",
-              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\ProductServiceTests.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\ProductServiceTests.cs",
-              "RelativeToolTip": "tests\\Asisya.Tests\\ProductServiceTests.cs",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\Asisya.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:25:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Asisya.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Asisya.Infrastructure\\Asisya.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T02:45:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Asisya.Api\\appsettings.json",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Asisya.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T02:57:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Asisya.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T03:32:15.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulkProductRequestDto.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
+              "RelativeToolTip": "src\\Asisya.Application\\DTOs\\BulkProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:56:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDtos.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
+              "RelativeToolTip": "src\\Asisya.Application\\DTOs\\CategoryDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:16:02.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:25:26.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Integration_Postgres_Container_Tests.cs",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
-              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
-              "RelativeToolTip": "tests\\Asisya.Tests\\Integration_Postgres_Container_Tests.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBUAAABRAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Asisya.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\src\\Asisya.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Asisya.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:15:47.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:16:09.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAGsJAAAAAAAAAAAjwIAJAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-29T02:13:12.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T02:13:12.118Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Asisya.Tests",
-              "DocumentMoniker": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Asisya.Tests.csproj",
-              "RelativeDocumentMoniker": "tests\\Asisya.Tests\\Asisya.Tests.csproj",
-              "ToolTip": "D:\\Descargas\\asisya-api\\asisya-api\\tests\\Asisya.Tests\\Asisya.Tests.csproj",
-              "RelativeToolTip": "tests\\Asisya.Tests\\Asisya.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T01:57:27.36Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
