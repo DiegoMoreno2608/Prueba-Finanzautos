@@ -1,27 +1,26 @@
-# Etapa de build
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+services:
+  db:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: asisya_db
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d asisya_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
-# Copiamos sln y proyectos para optimizar el cache de restore
-COPY *.sln ./
-COPY src/Asisya.Domain/Asisya.Domain.csproj src/Asisya.Domain/
-COPY src/Asisya.Application/Asisya.Application.csproj src/Asisya.Application/
-COPY src/Asisya.Infrastructure/Asisya.Infrastructure.csproj src/Asisya.Infrastructure/
-COPY src/Asisya.Api/Asisya.Api.csproj src/Asisya.Api/
-
-RUN dotnet restore
-
-# Copiamos el resto
-COPY . .
-RUN dotnet publish src/Asisya.Api/Asisya.Api.csproj -c Release -o /app/publish
-
-# Etapa runtime
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
-WORKDIR /app
-
-# Url por defecto (tu compose mapea 5000:8080)
-ENV ASPNETCORE_URLS=http://+:8080
-EXPOSE 8080
-
-COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "Asisya.Api.dll"]
+  api:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=asisya_db;Username=postgres;Password=123
+    ports:
+      - "5000:8080"
