@@ -1,0 +1,27 @@
+# Etapa de build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copiamos sln y proyectos para optimizar el cache de restore
+COPY *.sln ./
+COPY src/Asisya.Domain/Asisya.Domain.csproj src/Asisya.Domain/
+COPY src/Asisya.Application/Asisya.Application.csproj src/Asisya.Application/
+COPY src/Asisya.Infrastructure/Asisya.Infrastructure.csproj src/Asisya.Infrastructure/
+COPY src/Asisya.Api/Asisya.Api.csproj src/Asisya.Api/
+
+RUN dotnet restore
+
+# Copiamos el resto
+COPY . .
+RUN dotnet publish src/Asisya.Api/Asisya.Api.csproj -c Release -o /app/publish
+
+# Etapa runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+
+# Url por defecto (tu compose mapea 5000:8080)
+ENV ASPNETCORE_URLS=http://+:8080
+EXPOSE 8080
+
+COPY --from=build /app/publish .
+ENTRYPOINT ["dotnet", "Asisya.Api.dll"]

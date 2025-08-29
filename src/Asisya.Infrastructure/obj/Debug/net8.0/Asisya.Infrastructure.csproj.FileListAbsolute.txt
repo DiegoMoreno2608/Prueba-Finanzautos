@@ -1,0 +1,17 @@
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Infrastructure.deps.json
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Infrastructure.runtimeconfig.json
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Infrastructure.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Infrastructure.pdb
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Domain.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\bin\Debug\net8.0\Asisya.Domain.pdb
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.csproj.AssemblyReference.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.AssemblyInfoInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.AssemblyInfo.cs
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.I.064A6BFF.Up2Date
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\refint\Asisya.Infrastructure.dll
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.pdb
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\Asisya.Infrastructure.genruntimeconfig.cache
+D:\Descargas\asisya-api\asisya-api\src\Asisya.Infrastructure\obj\Debug\net8.0\ref\Asisya.Infrastructure.dll
