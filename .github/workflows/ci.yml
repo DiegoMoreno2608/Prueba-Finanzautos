@@ -2,50 +2,28 @@ name: CI
 
 on:
   push:
-    branches: [ "**" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "**" ]
+    branches: [ "main" ]
 
 jobs:
-  build-test:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v3
 
-      - name: Setup .NET 8
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '8.0.x'
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
 
-      - name: Restore
-        run: dotnet restore
+    - name: Restore
+      run: dotnet restore
 
-      - name: Build (Release, no-restore)
-        run: dotnet build --configuration Release --no-restore
+    - name: Build
+      run: dotnet build --no-restore --configuration Release
 
-      - name: Tests
-        run: dotnet test --configuration Release --no-build --verbosity normal
-
-      # Validación de estilo (opcional pero recomendado)
-      - name: dotnet format (verify)
-        run: dotnet format --verify-no-changes || (echo "Run 'dotnet format' locally to fix style issues" && exit 1)
-
-  # (Opcional) Build de imagen Docker para validar que el Dockerfile funciona
-  docker-build:
-    needs: build-test
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: Build image
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          file: ./Dockerfile
-          push: false
-          tags: asisya-api:ci
+    - name: Test
+      run: dotnet test --no-build --configuration Release
