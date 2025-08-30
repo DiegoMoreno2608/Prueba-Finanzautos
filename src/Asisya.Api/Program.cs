@@ -32,7 +32,7 @@ builder.Services.AddSwaggerGen(c =>
         new string[] {}
     }});
 });
-
+builder.Services.AddCors(opt => opt.AddPolicy("AllowAll", policy => { policy.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod(); }));
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
