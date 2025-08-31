@@ -22,7 +22,7 @@ public class AuthController : ControllerBase
         issuer: config["Jwt:Issuer"],
         audience: config["Jwt:Audience"],
         claims: new[] { new Claim(ClaimTypes.Name, request.Username) },
-        expires: DateTime.UtcNow.AddHours(6),
+        expires: DateTime.UtcNow.AddHours(1),
         signingCredentials: creds);
 
     return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
